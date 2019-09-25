@@ -8,7 +8,8 @@
 	<title>Insert</title>
 </head>
 <body>
-<h1>Halaman Utama</h1>
+<h1>Halaman Utama yang kedua</h1>
+<p>Hai Anak Pub you must be strong</p>
 <form method="POST" action="#">
 <table border="1">
 	<tr>
