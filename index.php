@@ -8,6 +8,7 @@
 	<title>Insert</title>
 </head>
 <body>
+<h1>Halaman Utama</h1>
 <form method="POST" action="#">
 <table border="1">
 	<tr>
